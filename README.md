@@ -1,6 +1,6 @@
-# data-analysis-visualization-practice
+# Data-analysis-visualization
 
-Data visualisation practice: seven questions, each answered with a different kind of chart using real-world datasets.
+Data visualisation: seven questions, each answered with a different kind of chart using real-world datasets.
 
 ## Questions and charts
 
