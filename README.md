@@ -1,6 +1,6 @@
 # data-analysis-visualization-practice
 
-Data visualisation assignment from the Jovian Zero to Data Analyst Bootcamp: seven questions, each answered with a different kind of chart using real-world datasets.
+Data visualisation practice: seven questions, each answered with a different kind of chart using real-world datasets.
 
 ## Questions and charts
 
@@ -19,7 +19,7 @@ All datasets are downloaded from public URLs inside the notebook.
 
 ```bash
 pip install numpy pandas matplotlib seaborn plotly folium wordcloud
-jupyter notebook data_analysis_visualization_practice_assignment.ipynb
+jupyter notebook data_analysis_visualization_practice.ipynb
 ```
 
 ## Technologies
