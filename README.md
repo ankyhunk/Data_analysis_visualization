@@ -1,4 +1,4 @@
-# Data-analysis-visualization
+# Data Analysis Visualization
 
 Data visualisation: seven questions, each answered with a different kind of chart using real-world datasets.
 
