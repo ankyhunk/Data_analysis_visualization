@@ -22,8 +22,6 @@ pip install numpy pandas matplotlib seaborn plotly folium wordcloud
 jupyter notebook data_analysis_visualization_practice_assignment.ipynb
 ```
 
-The `jovian` cells are only for submitting the assignment and can be skipped.
-
 ## Technologies
 
 Python, pandas, NumPy, Matplotlib, seaborn, Plotly, Folium, WordCloud, Jupyter Notebook
